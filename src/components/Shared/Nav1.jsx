@@ -20,7 +20,7 @@ const Nav1 = () => {
                                 </p>
                                 <p className="flex items-center text-white gap-1">
                                 <IoCall className="text-xl" />
-                                    <span>019182252</span>
+                                    <span>09925165242</span>
                                 </p>
                                 <p className="flex items-center text-white gap-1">
                                 <IoMdMail className="text-xl" />
