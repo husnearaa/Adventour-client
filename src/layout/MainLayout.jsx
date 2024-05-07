@@ -1,11 +1,14 @@
-import Home from "../pages/Home/Home";
+import Nav1 from "../components/Shared/Nav1";
+
+
+
 
 
 const MainLayout = () => {
     return (
-        <div className="max-w-[1300px] mx-auto ">
-            <h1 className="text-3xl text-red-700">This is layout</h1>
-            <Home></Home>
+        <div className="max-w-full mx-auto ">
+            {/* <h1 className="text-3xl text-red-700">This is layout</h1> */}
+            <Nav1></Nav1>
         </div>
     );
 };
