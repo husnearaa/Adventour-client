@@ -10,7 +10,7 @@ const Nav1 = () => {
     return (
         <div>
               <div className="bg-[#2D373C] py-3">
-                <div className="max-w-7xl mx-auto px-5">
+                <div className="max-w-7xl mx-auto ">
                     <div className="grid grid-cols-1 md:grid-cols-2">
                         <div className="hidden md:flex">
                             <div className="flex gap-5">
