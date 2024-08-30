@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 const slides = [
     {
         id: 2,
-        title: "Build a Hospital In Bangladesh",
+        title: "A website where you will get traveling place package",
         subtitle: ["Are You Planning To", "Contact World Renowed Health Care Consultant"],
         imageUrl: "https://i.postimg.cc/xdmjW7Ph/pexels-gustavo-fring-4173251.jpg",
     },
