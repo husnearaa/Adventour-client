@@ -17,14 +17,14 @@ const slides = [
     },
     {
         id: 1,
-        title: "Innovative Medical Solutions",
+        title: "A website where you will get best tourist package",
         subtitle:
             ["", "Leading the way in healthcare with advanced medical equipment and cutting-edge hospital construction."],
         imageUrl: "/national-cancer-institute-oCLuFi9GYNA-unsplash.jpg",
     },
     {
         id: 3,
-        title: "Office Equipment Excellence",
+        title: "A website where you will get best tourist package",
         subtitle:
             ["", "Supplying high-quality office equipment designed to enhance productivity and comfort."],
         imageUrl: "/benjamin-child-0sT9YhNgSEs-unsplash.jpg",
