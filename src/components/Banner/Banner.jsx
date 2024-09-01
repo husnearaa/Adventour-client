@@ -24,7 +24,7 @@ const slides = [
     },
     {
         id: 3,
-        title: "A website where you will get best tourist package",
+        title: "A website where you will get best tourist idea",
         subtitle:
             ["", "Supplying high-quality office equipment designed to enhance productivity and comfort."],
         imageUrl: "/benjamin-child-0sT9YhNgSEs-unsplash.jpg",
