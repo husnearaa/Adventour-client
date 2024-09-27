@@ -31,7 +31,7 @@ const slides = [
     },
     {
         id: 4,
-        title: "Custom Healthcare Solutions",
+        title: "A website where you will get best tourist package idea",
         subtitle:
             ["", "Tailoring healthcare environments to meet the unique needs of each client."],
         imageUrl: "/adhy-savala-zbpgmGe27p8-unsplash.jpg",
