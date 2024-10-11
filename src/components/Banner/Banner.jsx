@@ -38,7 +38,7 @@ const slides = [
     },
     {
         id: 5,
-        title: "Transforming Workspaces",
+        title: "A website where you will get all there travels packages",
         subtitle:
             ["", "Providing ergonomic office solutions that improve well-being and efficiency."],
         imageUrl: "/adolfo-felix-PG8NyM_Mcts-unsplash.jpg",
