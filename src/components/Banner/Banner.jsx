@@ -17,7 +17,7 @@ const slides = [
     },
     {
         id: 1,
-        title: "A website where you will get best tourist package",
+        title: "A website where you will get best tourist packages everything",
         subtitle:
             ["", "Leading the way in healthcare with advanced medical equipment and cutting-edge hospital construction."],
         imageUrl: "/national-cancer-institute-oCLuFi9GYNA-unsplash.jpg",
